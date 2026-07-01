@@ -5,7 +5,7 @@ financial metrics, and investment signals for AAPL, MSFT, and GOOGL using
 Python, SQL, Power BI, and Streamlit.
 
 ## 🔗 Live App
-[👉 Click here to view the live Streamlit app]((https://veenaa-stock-analysis.streamlit.app/)
+[👉 Click here to view the live Streamlit app](https://veenaa-stock-analysis.streamlit.app/)
 
 ---
 
